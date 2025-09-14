@@ -1,5 +1,5 @@
 // src/services/api.js
-const API_BASE_URL = 'https://my-backend-ai-dy77.onrender.com/';
+const API_BASE_URL = 'srv-d2o7i5bipnbc73bdcio0';
 
 export const apiService = {
   // Text generation API call
